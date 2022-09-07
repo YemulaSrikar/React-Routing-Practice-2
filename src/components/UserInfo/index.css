@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+
+.profile-container {
+  text-align: center;
+}
+.user-profile {
+  height: 150px;
+}
+.profile-name {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #12022f;
+}
+.profile-role {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #616e7c;
+}
